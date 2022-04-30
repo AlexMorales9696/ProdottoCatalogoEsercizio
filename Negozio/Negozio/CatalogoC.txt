@@ -1,0 +1,2 @@
+IdCatalogo;IdProdotto;Prezzo;NomeCatalogo,TipoCatalogo;
+1,1,10;estero;casa
