@@ -2,4 +2,3 @@ IdProdotto;NomeProdotto;Quantità;TipoProdotto
 1;Garnie;ciao;Shampoo
 1;Garnie;ciao;Shampoo
 1;Garnie;ciao;Shampoo
-
